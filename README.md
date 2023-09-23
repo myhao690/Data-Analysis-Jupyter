@@ -4,4 +4,4 @@
 
 SOCR数据集来源：http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights
 
-集成开发环境：Jupyter
+集成开发环境：‘Jupyter’
