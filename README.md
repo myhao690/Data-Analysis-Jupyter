@@ -1,4 +1,4 @@
-# Data-Analysis-Jupyter  
+# Data-Analysis 
 
 昆明理工大学大数据221--数据分析项目1：SOCR 身高和重量数据集分析
 
